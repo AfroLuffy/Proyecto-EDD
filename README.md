@@ -1,2 +1,4 @@
-# Proyecto-EDD
-Mini proyecto para Estructura de Datos
+# Implementing Stacks With Queues
+Gabriel Alfonso Torres Diaz
+2.-B
+Mini-Proyecto
